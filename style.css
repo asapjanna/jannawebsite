@@ -1,0 +1,23 @@
+body {
+    margin: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(148, 91, 100);
+}
+h2{
+    color: rgb(189, 143, 151);
+}
+img{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+}
+p {
+    color: rgb(189, 143, 151);
+}
+
+.purple-header {
+    color: #adaddb;
+}
